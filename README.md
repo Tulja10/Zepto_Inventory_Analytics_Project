@@ -64,7 +64,6 @@ Full queries: [`analysis_queries.sql`](analysis_queries.sql)
 - **Top 10 Products by Discounted Amount** (bar chart) — products where the business is giving away the most money in discounts (not just the highest discount %)
 - **MRP vs. Discount %** (scatter plot) — shows the pricing pattern across all products, with a marked "High MRP, Low Discount" zone for premium products that aren't discounted much
 - **Detail table** — product-level table with a running total of inventory value
-- 
 
 ### Key Insights
 - **Biscuits has the highest out-of-stock rate at 29%**, more than double the overall average (~12%) — the top category to restock first.
@@ -78,7 +77,6 @@ Full queries: [`analysis_queries.sql`](analysis_queries.sql)
 - **Pricing teams** can check discount levels against stock value to spot categories that may be over- or under-discounted.
 - **Anyone reviewing the business** gets one dashboard to check stock health and pricing trends, without writing SQL themselves.
 
-
 ## How to View
 - Open `zepto_dashboard.pbix` in Power BI Desktop for the full interactive report, or
-- View `zepto_inventory_analysis.pdf` / the embedded screenshots above for a static preview.
+- View `zepto_dashboard_preview.pdf` for a static preview.
