@@ -59,11 +59,15 @@ Full queries: [`analysis_queries.sql`](analysis_queries.sql)
 - **Out-of-Stock Rate by Category** (bar chart) — shows which categories run out of stock the most
 - **Total SKUs by Category** (bar chart) — shows how many products each category has
 
+![Page 1 - Inventory Analytics](images/page1_overview.png)
+
 **Page 2 — Product & Pricing Analysis**
 - **Filters:** Category, Out-of-stock status, Discount % range
 - **Top 10 Products by Discounted Amount** (bar chart) — products where the business is giving away the most money in discounts (not just the highest discount %)
 - **MRP vs. Discount %** (scatter plot) — shows the pricing pattern across all products, with a marked "High MRP, Low Discount" zone for premium products that aren't discounted much
 - **Detail table** — product-level table with a running total of inventory value
+
+![Page 2 - Product & Pricing Analysis](images/page2_product&pricing.png)
 
 ### Key Insights
 - **Biscuits has the highest out-of-stock rate at 29%**, more than double the overall average (~12%) — the top category to restock first.
