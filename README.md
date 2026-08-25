@@ -15,7 +15,7 @@ This project uses a Zepto inventory dataset to answer real business questions ab
 
 ## Data Source
 
-Dataset: Zepto inventory data, downloaded from Kaggle. It's a single table (`zepto`) with one row per product, including category, product name, MRP, discount %, discounted price, available quantity, weight (grams), stock status, and package quantity.
+Dataset: Zepto inventory data, downloaded from Kaggle. It's a single table (`zepto`) with one row per product, including category, product name, MRP, discount %, discounted price, available quantity, weight (grams), stock status, and package quantity.The data captures essential attributes for over **3,000+ SKUs (Stock Keeping Units)** across various categories like Fruits & Vegetables, Dairy, Packaged Foods, Beverages, and more.
 
 ## Features / Highlights
 
